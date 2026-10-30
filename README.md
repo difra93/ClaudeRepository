@@ -6,6 +6,6 @@ A test repository created to practice opening pull requests with Claude Code.
 
 Clone the repository and explore the files.
 
-## Contibuting
+## Contributing
 
 We welcome contributions! Please open a pull request with your changes.
